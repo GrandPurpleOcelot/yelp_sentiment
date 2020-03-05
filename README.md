@@ -27,4 +27,4 @@ Sentiment analysis is an important application of data science. It the process o
 
 Using text data from user reviews, I was able to train a Logistic Regression model that can predict sentiment (negative or positive) with 95% accuracy. 
 
-Sentiment Analysis notebook can be found [here]().
+Sentiment Analysis notebook can be found [here](https://nbviewer.jupyter.org/github/GrandPurpleOcelot/yelp_sentiment/blob/master/Sentiment%20Analysis.ipynb).
