@@ -20,4 +20,13 @@ The data is provided directly by Yelp and can be downloaded at https://www.yelp.
 • The data spans 11 metropolitan areas
 
 ## Exploratory Data Analysis
-There is much to learn in this dataset. Besides the traditional descriptive techniques, I can examine many different visualization techniques to highlight the significant trends and patterns in the data. Since the data is rich in geographical information (coordinate), I will analyze the data with the aid of mapping visualization. I will also use NLP methods to clean, vectorized and assess sentiment using the reviews that the customers provide. Or perhaps I could try to predict the number of stars that an establishment may receive depending on the reviews and other attributes in the dataset.
+There is much to learn in this dataset. Besides the traditional descriptive techniques, different visualization techniques can highlight the significant trends and patterns in the data. Since the data is rich in geographical information (coordinate), I will analyze the data with the aid of mapping visualization. I will also use NLP methods to clean, vectorized and assess sentiment in user reviews.
+
+EDA notebook can be found [here]().
+
+## Sentiment Analysis
+Sentiment analysis is an important application of data science. It the process of determining whether a piece of writing is positive, negative or neutral. This can help us deriving the opinion or attitude of the audience regarding business products and services. 
+
+Using text data from user reviews, I was able to train a Logistic Regression model that can predict sentiment (negative or positive) with 95% accuracy. 
+
+Sentiment Analysis notebook can be found [here]().
