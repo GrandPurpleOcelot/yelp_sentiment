@@ -28,3 +28,14 @@ Sentiment analysis is an important application of data science. It the process o
 Using text data from user reviews, I was able to train a Logistic Regression model that can predict sentiment (negative or positive) with 95% accuracy. 
 
 Sentiment Analysis notebook can be found [here](https://nbviewer.jupyter.org/github/GrandPurpleOcelot/yelp_sentiment/blob/master/Sentiment%20Analysis.ipynb).
+
+## Reference
+
+Hosmer Jr, D. W., Lemeshow, S., & Sturdivant, R. X. (2013). *Applied logistic regression* (Vol. 398). John Wiley & Sons.
+
+Manning, C. D., Manning, C. D., & Schütze, H. (1999). *Foundations of statistical natural language processing*. MIT press.
+
+Pang, B., & Lee, L. (2008). Opinion mining and sentiment analysis. *Foundations and Trends® in Information Retrieval*, 2(1–2), 1-135.
+
+Plisson, J., Lavrac, N., & Mladenic, D. (2004). A rule based approach to word lemmatization. In *Proceedings of IS* (Vol. 3, pp. 83-86).
+
