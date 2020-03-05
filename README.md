@@ -1,6 +1,7 @@
 # Sentiment Analysis on Yelp Reviews
 A comprehensive exploration of the Yelp reviews dataset, including interesting insights, trends, emotions and machine learning model that predict the sentiment of customer review on this platform.
 
+![summary](img/summary.png)
 
 # Introduction
 
@@ -19,11 +20,22 @@ The data is provided directly by Yelp and can be downloaded at https://www.yelp.
 ## Exploratory Data Analysis
 There is much to learn in this dataset. Besides the traditional descriptive techniques, different visualization techniques can highlight the significant trends and patterns in the data. Since the data is rich in geographical information (coordinate), I will analyze the data with the aid of mapping visualization. I will also use NLP methods to clean, vectorized and assess sentiment in user reviews.
 
-EDA notebook can be found [here]().
+EDA notebook can be found [here](https://nbviewer.jupyter.org/github/GrandPurpleOcelot/yelp_sentiment/blob/master/Yelp%20Exploratory%20Data%20Analysis.ipynb).
 
 ## Sentiment Analysis
 Sentiment analysis is an important application of data science. It the process of determining whether a piece of writing is positive, negative or neutral. This can help us deriving the opinion or attitude of the audience regarding business products and services. 
 
 Using text data from user reviews, I was able to train a Logistic Regression model that can predict sentiment (negative or positive) with 95% accuracy. 
 
-Sentiment Analysis notebook can be found [here]().
+Sentiment Analysis notebook can be found [here](https://nbviewer.jupyter.org/github/GrandPurpleOcelot/yelp_sentiment/blob/master/Sentiment%20Analysis.ipynb).
+
+## Reference
+
+Hosmer Jr, D. W., Lemeshow, S., & Sturdivant, R. X. (2013). *Applied logistic regression* (Vol. 398). John Wiley & Sons.
+
+Manning, C. D., Manning, C. D., & Schütze, H. (1999). *Foundations of statistical natural language processing*. MIT press.
+
+Pang, B., & Lee, L. (2008). Opinion mining and sentiment analysis. *Foundations and Trends® in Information Retrieval*, 2(1–2), 1-135.
+
+Plisson, J., Lavrac, N., & Mladenic, D. (2004). A rule based approach to word lemmatization. In *Proceedings of IS* (Vol. 3, pp. 83-86).
+
