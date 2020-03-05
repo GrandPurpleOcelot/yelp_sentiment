@@ -6,9 +6,6 @@ A comprehensive exploration of the Yelp reviews dataset, including interesting i
 
 With the rise of the digital presence and social media, customer reviews have become an increasingly important factor that influences purchase decisions for many people. When we hear about the new restaurant just open a few blocks away from the office, we often find yourself reaching for our phone and look up the information about the said restaurant before deciding to spend some money on a hopefully delicious meal. Yelp is the go-to application for many people, largely due to the crowd-sourced nature of the reviews. Yelp provides an open platform for customers to voice their opinion about the quality of certain services, and as a result, incentives businesses to raise to the standard of expectation. Conveniently, Yelp published their dataset for personal, educational, and academic uses.
 
-## Project Description
-The project is set out to provide a comprehensive exploration of the Yelp reviews dataset. More specifically, I was hoping to explore this dataset to find interesting insights, trends, patterns, as well as develop a statistical model that analyzes the sentiment of customers on this platform.
-
 
 ## Data
 The data is provided directly by Yelp and can be downloaded at https://www.yelp.com/dataset. The data is composed of single object type, one JSON-object per-line. 5 files that contains different attribute about businesses, reviews, user information, check-ins, and tips written by a user on a business. In total, there are:
