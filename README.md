@@ -1,6 +1,7 @@
 # Sentiment Analysis on Yelp Reviews
 A comprehensive exploration of the Yelp reviews dataset, including interesting insights, trends, emotions and machine learning model that predict the sentiment of customer review on this platform.
 
+![summary](img/summary.png)
 
 # Introduction
 
