@@ -5,7 +5,9 @@ A comprehensive exploration of the Yelp reviews dataset, including interesting i
 
 # Introduction
 
-With the rise of the digital presence and social media, customer reviews have become an increasingly important factor that influences purchase decisions for many people. When we hear about the new restaurant just open a few blocks away from the office, we often find yourself reaching for our phone and look up the information about the said restaurant before deciding to spend some money on a hopefully delicious meal. Yelp is the go-to application for many people, largely due to the crowd-sourced nature of the reviews. Yelp provides an open platform for customers to voice their opinion about the quality of certain services, and as a result, incentives businesses to raise to the standard of expectation. Conveniently, Yelp published their dataset for personal, educational, and academic uses.
+With the rise of the digital presence and social media, customer reviews have become an increasingly important factor that influences purchase decisions for many people. When we hear about the new restaurant just open a few blocks away from the office, we often find yourself reaching for our phone and look up the information about the said restaurant before deciding to spend some money on a hopefully delicious meal. Yelp is the go-to application for many people, largely due to the crowd-sourced nature of the reviews. 
+
+With the text data that contains a wealth of information on user's emotion, sentiment analysis can be used to discover people’s opinions, attitude and feelings about a product or service. The ability to extract insights from this type of data is interesting and impactful.
 
 
 ## Data
